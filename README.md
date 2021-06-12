@@ -13,5 +13,5 @@ The Code of Conduct Page of Azure User Group Sundsvall
 *QUESTIONS and FEEDBACK? *
 
 If you have questions and feedback, please contact organizer Jonah Andersson
-Email: [mailto:jonah@jonahandersson.tech](jonah@jonahandersson.tech)
+Email: [https://mailto:jonah@jonahandersson.tech](jonah@jonahandersson.tech)
 Twitter: https://www.twitter.com/azugsweden
