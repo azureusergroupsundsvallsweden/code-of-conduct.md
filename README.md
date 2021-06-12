@@ -10,7 +10,7 @@ The Code of Conduct Page of Azure User Group Sundsvall
 * **Be curious and open to share great ideas**
 * **Be inclusive in your comments or questions**
 
-*QUESTIONS and FEEDBACK? *
+# QUESTIONS and FEEDBACK? 
 
 If you have questions and feedback, 
 please contact organizer [Jonah Andersson](https://www.twitter.com/cjkodare)
