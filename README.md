@@ -22,7 +22,7 @@ The Code of Conduct of Azure User Group Sundsvall
 # QUESTIONS and FEEDBACK? 
 
 If you have questions and feedback, 
-please contact organizers via [About page](https://github.com/jonahandersson/AzureUserGroupSundsvallSweden)
+please contact organizers via [About page](https://github.com/azureusergroupsundsvallsweden/about.md)
 
 * Meetup: https://www.meetup.com/azureusergroupsundsvallsverige  
 * Twitter: https://www.twitter.com/azugsweden
