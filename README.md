@@ -18,6 +18,10 @@ The Code of Conduct of Azure User Group Sundsvall
 * **Be inclusive in your comments or questions**
     - This user group aims to be inclusive, respectful and diverse for everyone. 
     - Be mindful how inclusive and diverse your comments and questions are before you publish or post it.
+ * **Create Meaningful Connections and Collaborate**
+    - We connect, we learn together and collaborate 
+    - The user group is used as a knowledge channel for learning and useful information
+    - The user group is *NOT* intended for any marketing or hunting for possible recruitment candidates
 
 # QUESTIONS and FEEDBACK? 
 
