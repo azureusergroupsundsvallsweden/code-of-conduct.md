@@ -1,7 +1,7 @@
 # Azure User Group Sundsvall Sweden -  **CODE OF CONDUCT**
 ![AzureUserGroupSundsvall](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/JonahAzureUserGroupSundsvallSweden_small-1024x603.png)
 
- # **The Code of Conduct of Azure User Group Sundsvall**
+ # **The Code of Conduct of Azure User Group Sundsvall Sweden**
 
 * **Be nice and friendly**
    - Create a nice and friendly atmosphere and ambience for everyone to feel connected to learn together and meet new connections.
