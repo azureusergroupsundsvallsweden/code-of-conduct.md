@@ -34,3 +34,4 @@ please contact organizers via [About page](https://github.com/azureusergroupsund
 
 * Meetup: https://www.meetup.com/azureusergroupsundsvallsverige  
 * Twitter: https://www.twitter.com/azugsweden
+* LinkedIn Group: https://www.linkedin.com/company/azure-user-group-sundsvall-sweden 
