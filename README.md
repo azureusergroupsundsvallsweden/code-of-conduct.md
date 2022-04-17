@@ -1,7 +1,7 @@
-# Azure User Group Sundsvall Sweden -  **CODE OF CONDUCT**
-![AzureUserGroupSundsvall](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/JonahAzureUserGroupSundsvallSweden_small-1024x603.png)
+# Azure User Group Sweden -  **CODE OF CONDUCT**
+![Azure User Group Sweden](https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureUserGroupSweden_Transparent-300x184.png)
 
- # **The Code of Conduct of Azure User Group Sundsvall Sweden**
+ # **The Code of Conduct of Azure User Group Sweden**
 
 * **Be nice and friendly**
    - Create a nice and friendly atmosphere and ambience for everyone to feel connected to learn together and meet new connections.
@@ -16,7 +16,7 @@
     - If you have great ideas to share, share it positively with others. 
 * **Be curious and open to share great ideas**
     - You have more knowledge and big ideas you can contibute during the meetups or group's events, feel free to share and collaborate.
-* **Be inclusive in your comments or questions**
+* **Be respectful and inclusive in your comments or questions**
     - This user group aims to be inclusive, respectful and diverse for everyone. 
     - Be mindful how inclusive and diverse your comments and questions are before you publish or post it.
  * **Create Meaningful Connections and Collaborate**
@@ -25,14 +25,14 @@
     - The user group is *NOT* intended for any marketing or hunting for possible recruitment candidates
 * **It is prohibited to harass and discriminate others**
      - Don't harass or insult others because of their age, gender, background, culture, religion, etc. 
-     - Such behaviors are not allowed in the user group
+     - Such behaviors are not allowed in our communtinity group
      
 # QUESTIONS and FEEDBACK? 
 
-If you have questions and feedback, 
-please contact organizers via [About page](https://github.com/azureusergroupsundsvallsweden/about.md)
+If you have questions, feedback and if you think that someone has voilated our community code of conduct, please contact organizers via [About page](https://github.com/azureusergroupsundsvallsweden/about.md)
 
 * Meetup: https://www.meetup.com/azureusergroupsundsvallsverige  
 * Twitter: https://www.twitter.com/azugsweden
 * LinkedIn Group: https://www.linkedin.com/company/azure-user-group-sundsvall-sweden 
-* Sessionize Call for Speakers: https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021/ 
+* YouTube Channel: https://www.youtube.com/c/AzureUserGroupSweden
+* Sessionize Azure User Group Sweden Meetup Call for Speakers: https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2022/
