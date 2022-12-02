@@ -35,4 +35,4 @@ If you have questions, feedback and if you think that someone has voilated our c
 * Twitter: https://www.twitter.com/azugsweden
 * LinkedIn Group: https://www.linkedin.com/company/azure-user-group-sundsvall-sweden 
 * YouTube Channel: https://www.youtube.com/c/AzureUserGroupSweden
-* Sessionize Azure User Group Sweden Meetup Call for Speakers: https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2022/
+* Sessionize Azure User Group Sweden Meetup Call for Speakers: https://sessionize.com/azure-user-group-sweden-cfp 
